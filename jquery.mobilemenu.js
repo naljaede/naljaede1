@@ -13,7 +13,7 @@
 $.fn.mobileMenu = function(options) {
 	
 	var defaults = {
-			defaultText: 'Ø§Ù„Ø°Ù‡Ø§Ø¨ Ø§Ù„Ù‰...',
+			defaultText: 'الذهاب الى...',
 			className: 'select-menu',
 			subMenuClass: 'sub-menu',
 			subMenuDash: '&ndash;'
